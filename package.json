@@ -1,0 +1,23 @@
+{
+  "name": "roundslider",
+  "version": "1.0.0",
+  "description": "### What's this ?",
+  "main": "src/roundslider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundar24/roundSlider.git"
+  },
+  "keywords": [
+    "round",
+    "slider"
+  ],
+  "author": "soundar24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundar24/roundSlider/issues"
+  },
+  "homepage": "https://github.com/soundar24/roundSlider#readme"
+}
